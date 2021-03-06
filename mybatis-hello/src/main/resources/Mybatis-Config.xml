@@ -19,6 +19,6 @@
         </environment>
     </environments>
     <mappers>
-        <mapper resource="com.mybatis.hello.BlogMapper.xml"/>
+        <mapper resource="com/mybatis/dao/UserMapper.xml"/>
     </mappers>
 </configuration>
